@@ -243,4 +243,4 @@ This repository serves as the official landing page for Chrome Remote Desktop. T
 **Get the most recent version of Chrome Remote Desktop today!**
 
 ---
-**Last updated:** 2026-09-14 17:21:36 UTC
+**Last updated:** 2026-09-14 21:15:11 UTC
